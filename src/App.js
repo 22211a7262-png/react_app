@@ -32,7 +32,7 @@ function App() {
         {showContact && (
           <div className="contact">
             <p>Email: zemosolabs@gmail.com</p>
-            <p>Phone: +91 9876543210</p>
+            <p>Phone: +91 9878989777</p>
           </div>
         )}
 
